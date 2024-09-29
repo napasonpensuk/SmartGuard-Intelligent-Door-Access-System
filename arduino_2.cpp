@@ -356,7 +356,7 @@ void loop() {
               lcd.print("Fingerprint");  // แสดงข้อความ "Fingerprint"
               lcd.setCursor(0, 1);  // ตั้งเคอร์เซอร์ที่แถวล่างสุด
               lcd.print("Not Found!");  // แสดงข้อความ "Not Found!"
-
+              Serial.print("Fingerprint Not Found!"); //แสดงข้อความใน Serial Monitor
               // ส่งเสียงบัซเซอร์เมื่อไม่พบลายนิ้วมือ
               tone(BuzzerPin, 1000);  // ส่งเสียงบัซเซอร์ที่ความถี่ 1000 Hz
               delay(300);  // หน่วงเวลา 300 มิลลิวินาที
