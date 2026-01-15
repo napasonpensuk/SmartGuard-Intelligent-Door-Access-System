@@ -1,8 +1,8 @@
-SmartGuard: Intelligent Door Access System
+# SmartGuard: Intelligent Door Access System
 
-วิชา 240-319 Embedded System Developer Module
+## วิชา 240-319 Embedded System Developer Module
 
-จัดทำโดย
+## จัดทำโดย
 
 นางสาวนภสร ป็นสุข 6510110225
 
@@ -12,7 +12,7 @@ SmartGuard: Intelligent Door Access System
 
 Section 01
 
-เสนอ
+## เสนอ
 
 รศ.ดร. ทวีศักดิ์ เรืองพีระกุล
 
@@ -26,7 +26,7 @@ Section 01
 
 ==============================================================================================================
 
-Tools
+## Tools
 
 - Arduino UNO R3
 - RFID MFRC-522 ตรวจจับคีย์การ์ด
@@ -49,26 +49,26 @@ Tools
 
 ==============================================================================================================
 
-Video Preview
+## Video Preview
 
 https://drive.google.com/file/d/1tQIbv8PFuV6UCVJl5ukV_tj5qc5oH9BB/view?fbclid=IwY2xjawFmlzhleHRuA2FlbQIxMAABHejbRDkIX-wvmYnT2QhPVE21tDd2WGN0YZ_jAD3sMbJsS3aEsoV9DyILIg_aem_lRbSFC1ngE4KnezXk_UKJA
 
 ==============================================================================================================
 
-Presentation Flie
+## Presentation Flie
 
 https://drive.google.com/file/d/1dvtefZqTciarLKhhGUjkPI2ET8FvZHIA/view?usp=drive_link
 
 ==============================================================================================================
 
 
-SmartGuard: Intelligent Door Access System
+## SmartGuard: Intelligent Door Access System
 
-Course 240-319 Embedded System Developer Module
+## Course 240-319 Embedded System Developer Module
 
-Prepared by:
+## Prepared by:
 
-Ms. Naphasorn Pensuk 6510110225
+Ms. Napason Pensuk 6510110225
 
 Mr. Phakkapoom Jindadech 6510110340
 
@@ -76,7 +76,7 @@ Mr. Tulthorn Chantra 6510110632
 
 Section 01
 
-Submitted to:
+## Submitted to:
 
 Assoc. Prof. Dr. Taweesak Ruangpeerakul
 
@@ -90,7 +90,7 @@ Prince of Songkla University, Hat Yai Campus
 
 =================================================================================================================
 
-Tools
+## Tools
 
 - Arduino UNO R3
 - RFID MFRC-522 keycard detector
@@ -113,28 +113,23 @@ Tools
 
 ============================================================================================================
 
-Video Preview
+## Video Preview
 
 https://drive.google.com/file/d/1tQIbv8PFuV6UCVJl5ukV_tj5qc5oH9BB/view?fbclid=IwY2xjawFmlzhleHRuA2FlbQIxMAABHejbRDkIX-wvmYnT2QhPVE21tDd2WGN0YZ_jAD3sMbJsS3a EsoV9DyILIg_aem_lRbSFC1ngE4KnezXk_UKJA
 
 ================================================================================================
 
-Presentation Flie
+## Presentation Flie
 
 https://drive.google.com/file/d/1dvtefZqTciarLKhhGUjkPI2ET8FvZHIA/view?usp=drive_link
 
 ================================================================================================
 
-Report Project Flie
+## Report Project Flie
 
 https://drive.google.com/file/d/1fS12gOmGymEOauKYsH2hISeXrR0UCLyZ/view?usp=drive_link
 
 
 ================================================================================================
 
-Report Project Flie
 
-https://drive.google.com/file/d/1fS12gOmGymEOauKYsH2hISeXrR0UCLyZ/view?usp=drive_link
-
-
-==============================================================================================================
